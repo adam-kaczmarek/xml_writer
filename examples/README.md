@@ -8,4 +8,4 @@ Example with the same output as in example01, but using simple extensions defini
 Usage of simple svg helper extension. Shows automatic namespace declaration and declaring extension dependency.
 
 # example04
-Few sample examples with defining dependencies.
+Few sample extensions with dependencies between them.
